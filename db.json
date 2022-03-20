@@ -6,11 +6,6 @@
       "book_name": "Temorak",
       "date_publication": "2015-10-22",
       "address_book_vente": "47 Granite Street, Steinhatchee, North Carolina",
-      "address_maison_edition": "84 Norfolk Street, Edgar, Nevada",
-      "location_maison_edition": {
-        "lat": 39.309884,
-        "long": 110.382383
-      }
     }
   },
   {
@@ -20,11 +15,7 @@
       "book_name": "Ronelon",
       "date_publication": "2020-10-18",
       "address_book_vente": "67 Minna Street, Waterloo, Arkansas",
-      "address_maison_edition": "17 Oceanic Avenue, Brandywine, Maine",
-      "location_maison_edition": {
-        "lat": -88.281165,
-        "long": 138.024158
-      }
+     
     }
   },
   {
@@ -34,11 +25,7 @@
       "book_name": "Urbanshee",
       "date_publication": "2011-04-05",
       "address_book_vente": "15 Kosciusko Street, Vallonia, Maryland",
-      "address_maison_edition": "57 Frost Street, Chaparrito, Arizona",
-      "location_maison_edition": {
-        "lat": 50.111119,
-        "long": 40.790023
-      }
+     
     }
   },
   {
@@ -48,11 +35,7 @@
       "book_name": "Squish",
       "date_publication": "2020-08-09",
       "address_book_vente": "89 Clymer Street, Sylvanite, Vermont",
-      "address_maison_edition": "60 Everett Avenue, Calverton, American Samoa",
-      "location_maison_edition": {
-        "lat": -58.400775,
-        "long": -6.474139
-      }
+     
     }
   },
   {
@@ -62,11 +45,7 @@
       "book_name": "Injoy",
       "date_publication": "2013-07-11",
       "address_book_vente": "84 Schenck Court, Gloucester, Kentucky",
-      "address_maison_edition": "3 Pilling Street, Summerset, New Mexico",
-      "location_maison_edition": {
-        "lat": -30.790775,
-        "long": 110.808621
-      }
+     
     }
   },
   {
@@ -76,11 +55,7 @@
       "book_name": "Ecstasia",
       "date_publication": "2018-02-01",
       "address_book_vente": "13 Maple Avenue, Slovan, Georgia",
-      "address_maison_edition": "74 Stockton Street, Norris, Texas",
-      "location_maison_edition": {
-        "lat": 81.112051,
-        "long": 56.020121
-      }
+     
     }
   },
   {
@@ -90,11 +65,7 @@
       "book_name": "Techade",
       "date_publication": "2011-11-10",
       "address_book_vente": "90 Moore Place, Whitmer, Connecticut",
-      "address_maison_edition": "84 Corbin Place, Norwood, Virgin Islands",
-      "location_maison_edition": {
-        "lat": 40.909358,
-        "long": -174.595004
-      }
+     
     }
   },
   {
@@ -104,11 +75,7 @@
       "book_name": "Mondicil",
       "date_publication": "2021-10-05",
       "address_book_vente": "45 Waldane Court, Haring, Oklahoma",
-      "address_maison_edition": "100 Fillmore Avenue, Boykin, Montana",
-      "location_maison_edition": {
-        "lat": -18.342079,
-        "long": -156.459109
-      }
+     
     }
   },
   {
@@ -117,12 +84,7 @@
       "name_author": "Raquel Mercer",
       "book_name": "Zentury",
       "date_publication": "2021-10-03",
-      "address_book_vente": "6 Bartlett Street, Zortman, Mississippi",
-      "address_maison_edition": "47 Seaview Court, Bartley, Colorado",
-      "location_maison_edition": {
-        "lat": 88.453644,
-        "long": 112.156322
-      }
+     
     }
   },
   {
@@ -132,11 +94,7 @@
       "book_name": "Geekfarm",
       "date_publication": "2017-10-15",
       "address_book_vente": "89 Gates Avenue, Carrizo, South Carolina",
-      "address_maison_edition": "48 Adler Place, Duryea, Alabama",
-      "location_maison_edition": {
-        "lat": 29.270945,
-        "long": -81.615998
-      }
+      
     }
   },
   {
@@ -146,11 +104,7 @@
       "book_name": "Letpro",
       "date_publication": "2010-03-27",
       "address_book_vente": "66 Rockaway Parkway, Churchill, Hawaii",
-      "address_maison_edition": "4 Pierrepont Street, Brethren, Palau",
-      "location_maison_edition": {
-        "lat": 75.820635,
-        "long": -110.179964
-      }
+      
     }
   },
   {
@@ -160,11 +114,7 @@
       "book_name": "Extremo",
       "date_publication": "2014-04-01",
       "address_book_vente": "22 Shale Street, Mooresburg, New Hampshire",
-      "address_maison_edition": "30 Broome Street, Belleview, Alaska",
-      "location_maison_edition": {
-        "lat": 3.393841,
-        "long": -164.067923
-      }
+      
     }
   },
   {
@@ -174,11 +124,7 @@
       "book_name": "Pholio",
       "date_publication": "2010-08-13",
       "address_book_vente": "61 Seigel Court, Crumpler, Utah",
-      "address_maison_edition": "20 Hunterfly Place, Templeton, New Jersey",
-      "location_maison_edition": {
-        "lat": -54.343753,
-        "long": 114.319795
-      }
+     
     }
   },
   {
@@ -188,11 +134,7 @@
       "book_name": "Isoswitch",
       "date_publication": "2017-01-16",
       "address_book_vente": "78 Beverly Road, Dubois, Delaware",
-      "address_maison_edition": "3 Mermaid Avenue, Buxton, Wyoming",
-      "location_maison_edition": {
-        "lat": 85.787609,
-        "long": -42.656975
-      }
+      
     }
   },
   {
@@ -202,11 +144,7 @@
       "book_name": "Comtent",
       "date_publication": "2021-06-25",
       "address_book_vente": "59 Kingsland Avenue, Windsor, Missouri",
-      "address_maison_edition": "54 Macdougal Street, Clarence, District Of Columbia",
-      "location_maison_edition": {
-        "lat": 11.046289,
-        "long": -133.209876
-      }
+     
     }
   }
 ]
