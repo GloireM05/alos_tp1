@@ -1,151 +1,65 @@
 [
   {
     "id": "6234fa66355e1d7a74e61c6a",
-    "profile": {
       "name_author": "Melva Vaughn",
       "book_name": "Temorak",
       "date_publication": "2015-10-22",
       "address_book_vente": "47 Granite Street, Steinhatchee, North Carolina"
-    }
   },
   {
     "id": "6234fa66ff007e7f313eadad",
-    "profile": {
       "name_author": "Hester Whitehead",
       "book_name": "Ronelon",
       "date_publication": "2020-10-18",
       "address_book_vente": "67 Minna Street, Waterloo, Arkansas"
-     
-    }
+ 
   },
   {
     "id": "6234fa661a5fc845db238517",
-    "profile": {
       "name_author": "Elise Mayer",
       "book_name": "Urbanshee",
       "date_publication": "2011-04-05",
       "address_book_vente": "15 Kosciusko Street, Vallonia, Maryland"
-     
-    }
+    
   },
   {
     "id": "6234fa665d077ac322cccbfb",
-    "profile": {
       "name_author": "Norman Rush",
       "book_name": "Squish",
       "date_publication": "2020-08-09",
       "address_book_vente": "89 Clymer Street, Sylvanite, Vermont"
      
-    }
   },
   {
     "id": "6234fa66b89f463806dffc9c",
-    "profile": {
       "name_author": "Constance Fox",
       "book_name": "Injoy",
       "date_publication": "2013-07-11",
       "address_book_vente": "84 Schenck Court, Gloucester, Kentucky"
      
-    }
   },
   {
     "id": "6234fa66c56e62b172ef2b93",
-    "profile": {
       "name_author": "Haney Lancaster",
       "book_name": "Ecstasia",
       "date_publication": "2018-02-01",
       "address_book_vente": "13 Maple Avenue, Slovan, Georgia"
      
-    }
   },
   {
     "id": "6234fa66914ef3812d588d0d",
-    "profile": {
       "name_author": "Robinson Finch",
       "book_name": "Techade",
       "date_publication": "2011-11-10",
       "address_book_vente": "90 Moore Place, Whitmer, Connecticut"
      
-    }
   },
   {
     "id": "6234fa6636f6639b1a7c9af4",
-    "profile": {
       "name_author": "Courtney Ortega",
       "book_name": "Mondicil",
       "date_publication": "2021-10-05",
       "address_book_vente": "45 Waldane Court, Haring, Oklahoma"
      
-    }
-  },
-  {
-    "id": "6234fa66c726e6390df455b5",
-    "profile": {
-      "name_author": "Raquel Mercer",
-      "book_name": "Zentury",
-      "date_publication": "2021-10-03",
-      "address_book_vente": "48 Waldane Court, Haring, Oklahoma"
-     
-    }
-  },
-  {
-    "id": "6234fa66a5062d221150fbdb",
-    "profile": {
-      "name_author": "Alison Kelley",
-      "book_name": "Geekfarm",
-      "date_publication": "2017-10-15",
-      "address_book_vente": "89 Gates Avenue, Carrizo, South Carolina"
-      
-    }
-  },
-  {
-    "id": "6234fa661e29f5cb6b0a1239",
-    "profile": {
-      "name_author": "Strickland Ewing",
-      "book_name": "Letpro",
-      "date_publication": "2010-03-27",
-      "address_book_vente": "66 Rockaway Parkway, Churchill, Hawaii"
-      
-    }
-  },
-  {
-    "id": "6234fa662adee02d32f67901",
-    "profile": {
-      "name_author": "Morton Beard",
-      "book_name": "Extremo",
-      "date_publication": "2014-04-01",
-      "address_book_vente": "22 Shale Street, Mooresburg, New Hampshire"
-      
-    }
-  },
-  {
-    "id": "6234fa66bfce90e5dc3b029c",
-    "profile": {
-      "name_author": "Sharron Best",
-      "book_name": "Pholio",
-      "date_publication": "2010-08-13",
-      "address_book_vente": "61 Seigel Court, Crumpler, Utah"
-     
-    }
-  },
-  {
-    "id": "6234fa66832a5240feb9d136",
-    "profile": {
-      "name_author": "Grimes Schmidt",
-      "book_name": "Isoswitch",
-      "date_publication": "2017-01-16",
-      "address_book_vente": "78 Beverly Road, Dubois, Delaware"
-      
-    }
-  },
-  {
-    "id": "6234fa661bfdc3868bca3443",
-    "profile": {
-      "name_author": "Kris Baldwin",
-      "book_name": "Comtent",
-      "date_publication": "2021-06-25",
-      "address_book_vente": "59 Kingsland Avenue, Windsor, Missouri"
-     
-    }
   }
 ]
