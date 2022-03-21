@@ -1,5 +1,5 @@
 Pour commencer, on a generer 100 enregistrement de fichier json, ensuite on l'a enregistrer sous le nom de db.json.
-On a lancer le server json, puis avec l'url https://my-json-server.typicode.com/GloireM05/alos_tp1.
+On a lancer le server json dans le terminal node.js prompt avec json-server --watch db.json.
 Pour afficher les 10 premiers enregistrements j'ai utiliser la fonction top et pour filtrer j'ai utiliser filter sur l'url https
 
 3-Signification
