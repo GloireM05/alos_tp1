@@ -1,5 +1,5 @@
 var unirest = require("unirest");
-var req = unirest("GET", "https://my-json-server.typicode.com/GloireM05/alos_tp1/db?$top=10");
+var req = unirest("GET", "http://localhost:3000/bibliotheques");
 req.headers({ 
 			"cache-control": "no-cache"
 });
